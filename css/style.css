@@ -715,6 +715,15 @@ a:hover {
   background-color: #0078ff;
 }
 
+
+
+.progress-bar {
+  height: 20px;
+  background-color: #0078ff;
+  transition: width 2s ease-out; /* Smooth transition for width change */
+}
+
+
 /*======================================
 //--//-->   SERVICES
 ======================================*/
